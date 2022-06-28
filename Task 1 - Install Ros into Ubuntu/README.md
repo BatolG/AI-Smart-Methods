@@ -4,9 +4,10 @@
 This file will represent the steps to install Robot Operating System (ROS) into Ubuntu.
 
 ## Versions
+ROS noetic does not support Ubuntu 22.04. So, I use Ubuntu 20.04.1
 - Ubuntu 20.04.1 
 - ROS noetic
-ROS noetic is not support Ubuntu 22.04. So, I use Ubuntu 20.04.1
+
 
  
 ## Installation steps
